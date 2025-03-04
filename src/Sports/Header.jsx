@@ -56,7 +56,7 @@ const HeroSection = () => {
     <>
     <div id="home">
       <header>
-        <Image src={logo} width={90} height={90} style={{ marginTop: "50px" }} />
+         <Image src={logo} width={90} height={90} style={{ marginTop: "50px" }} /> 
         
        
         <div
